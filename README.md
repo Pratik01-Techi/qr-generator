@@ -36,7 +36,7 @@ A modern, full-featured **React Native & Expo** mobile app designed to generate 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pratik01-techi/qr-generator.git
+   git clone https://github.com/Pratik01-tech/qr-generator.git
    cd qr-generator
    ```
 
